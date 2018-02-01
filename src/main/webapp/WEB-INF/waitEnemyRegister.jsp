@@ -13,7 +13,9 @@
 </head>
 <body>
 
-    Please wait other player to join.
+    <h2>${playerGameContext.player.name} <%--expression language - otobrazhaet informaciju igroka--%>
+
+    , Please wait other player to join.
 
 </body>
 </html>
